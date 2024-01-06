@@ -1,1 +1,1 @@
-Here is a vanilla version for an intercative music map for the most relevant venues in Florence, Italy
+A vanilla version for an interactive map of the most relevant music venues in Florence, Italy.
